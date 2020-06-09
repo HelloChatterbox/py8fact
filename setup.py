@@ -15,7 +15,7 @@ extra_files = package_files('8fact')
 setup(
     name='py8fact',
     version='0.1.0',
-    packages=['8fact'],
+    packages=['py8fact'],
     url='https://github.com/OpenJarbas/8fact',
     package_data={'': extra_files},
     include_package_data=True,
